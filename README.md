@@ -10,3 +10,7 @@ make install
 ## build executable to use library
 ```bash
 mkdir build && cd build
+cmake ..
+make
+./my_exe
+```
